@@ -13,6 +13,10 @@ Lista de API Whatsapp | Delphi/Lazarus
   - Desenvolvido sob Tinject e upgrade to WPP4Delphi;<br>
   - Ajustado para Trabalhar com o WPPConnect<br>
   https://github.com/wppconnect-team/WPP4Delphi<br>
+  
+  <b>WBotCE</b><br>
+componnet for lazarus<br>
+https://github.com/OpenSourceCommunityBrasil/WBotCE<br>
 
   <b>API Grátis</b><br>
   Com esse serviço é possivel você enviar, receber mensagens e arquivos de forma simples.<Br>
