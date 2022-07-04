@@ -15,7 +15,7 @@ Lista de API Whatsapp | Delphi/Lazarus
   https://github.com/wppconnect-team/WPP4Delphi<br>
   
   <b>WBotCE</b><br>
-componnet for lazarus<br>
+component for lazarus<br>
 https://github.com/OpenSourceCommunityBrasil/WBotCE<br>
 
   <b>API Grátis</b><br>
