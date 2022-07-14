@@ -1,6 +1,11 @@
 # Lista de API Whatsapp
 Lista de API Whatsapp | Delphi/Lazarus
 
+<b>Myzap 2.0</b><br>
+https://github.com/billbarsch/myzap <Br>
+https://t.me/joinchat/tOiGjpK_0xg4OGZh <br>
+Permite a integração do WhatsApp com qualquer aplicação por meio de requisições POST/GET<br>
+
   <b>Tinject</b><br> https://t.me/tinject
   Componente para criação de chatBots com delphi
   Component for creating chatBots with delphi<br>
