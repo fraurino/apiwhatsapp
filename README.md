@@ -16,7 +16,6 @@ Permite a integração do WhatsApp com qualquer aplicação por meio de requisi�
 
   Evolução do Código | Modificação..: <br>
   - Desenvolvido com Tinject porém upgrade para WPP4Delphi;<br>
-  - Ajustado para Trabalhar com o WPPConnect<br>
   https://github.com/wppconnect-team/WPP4Delphi<br>
   
   <b>WBotCE</b><br>
