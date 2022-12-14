@@ -24,9 +24,10 @@ https://github.com/OpenSourceCommunityBrasil/WBotCE<br>
 
   <b>API Grátis</b><br>
   Com esse serviço é possivel você enviar, receber mensagens e arquivos de forma simples.<Br>
-  https://documenter.getpostman.com/view/11074732/Uz5DqHx4<br>
+  https://documenter.getpostman.com/view/11074732/UVkqrZtZ<br>
   https://apigratis.com.br/documentacoes<br>
-  
+  Pacote composer: https://packagist.org/packages/jhowbhz/package-apigratis
+   
   <b>Venom Bot</b><br>
   Venom é um sistema de alto desempenho desenvolvido com JavaScript para criar um bot para WhatsApp, suporte para criar qualquer interação, como atendimento ao cliente, envio de mídia, reconhecimento de frases baseado em inteligência artificial e todo tipo de arquitetura de design para WhatsApp.<Br>
   Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp.<Br>
