@@ -5,14 +5,16 @@ Lista de API Whatsapp | Delphi/Lazarus
 https://github.com/billbarsch/myzap <Br>
 https://t.me/joinchat/tOiGjpK_0xg4OGZh <br>
 Permite a integração do WhatsApp com qualquer aplicação por meio de requisições POST/GET<br>
-
+  
+  <b>WPP4Delphi</b><br> https://t.me/WPP4Delphi | https://t.me/wppconnect<Br> 
+  WPP4Delphi é um projeto *open-source* com o objetivo de exportar funções do WhatsApp Web para Delphi/Lazarus, que podem ser usadas para apoiar a criação de qualquer interação.<br>
+  
   <b>Tinject</b><br> https://t.me/tinject
   Componente para criação de chatBots com delphi
   Component for creating chatBots with delphi<br>
   https://github.com/mikelustosa/Projeto-TInject/<br>
 
-  <b>WPP4Delphi</b><br> https://t.me/WPP4Delphi | https://t.me/wppconnect<Br> 
-  WPP4Delphi é um projeto open-source com o objetivo de exportar funções do WhatsApp Web para Delphi/Lazarus, que podem ser usadas para apoiar a criação de qualquer interação.<br>
+
 
   Evolução do Código | Modificação..: <br>
   - Desenvolvido com Tinject porém upgrade para WPP4Delphi;<br>
