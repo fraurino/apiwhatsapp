@@ -11,9 +11,8 @@ Permite a integração do WhatsApp com qualquer aplicação por meio de requisi�
   WPP4Delphi é um projeto *open-source* com o objetivo de exportar funções do WhatsApp Web para Delphi/Lazarus, que podem ser usadas para apoiar a criação de qualquer interação.<p>
   https://github.com/wppconnect-team/WPP4Delphi<br>
   
-  <b>Tinject</b><br> https://t.me/tinject
-  Componente pago para intergração com whatsapp delphi
-  Component for creating chatBots with delphi<br>
+  <b>Tinject</b><br> 
+  Componente pago para intergração com whatsapp delphi<br>
   https://github.com/mikelustosa/TInject-corporate/<br>
 
   
