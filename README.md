@@ -12,8 +12,8 @@ Permite a integração do WhatsApp com qualquer aplicação por meio de requisi�
   https://github.com/wppconnect-team/WPP4Delphi<br>
   
   <b>Tinject</b><br> 
-  Componente pago para intergração com whatsapp delphi<br>
-  https://github.com/mikelustosa/TInject-corporate/<br>
+  Componente para intergração com whatsapp delphi<br>
+  https://github.com/mikelustosa/Projeto-TInject/<br>
 
   
   <b>WBotCE</b><br>
